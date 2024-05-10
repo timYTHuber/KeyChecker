@@ -32,9 +32,6 @@ input, button {
 input {
     transition: 0.4s ease-in-out;
 }
-button {
-    transition: 0.1s ease;
-}
 button:hover {
     color: green;
 }
