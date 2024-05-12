@@ -3,7 +3,7 @@ function button() {
     var inputValue = input.value;
 
     if (inputValue === "SLX-QSFTMECXBUSQQNLU") {
-      var scriptLink = "loadstring(game:HttpGet("https://raw.githubusercontent.com/timYTHuber/AllInOne/main/Hub.lua"))()";
+      var scriptLink = "https://pastebin.com/GhiSgM6D"
       navigator.clipboard.writeText(scriptLink)
         .then(function() {
           alert("Link to script copied to clipboard!");
